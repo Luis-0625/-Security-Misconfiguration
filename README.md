@@ -53,7 +53,13 @@ Click en Attack
 
 Observa el panel de alertas — verás vulnerabilidades clasificadas por nivel (High, Medium, Low, Informational).
 
+## imagenes de los procesos
 
-![Escaneo con ZAP]<img width="1366" height="768" alt="Captura desde 2025-11-05 16-05-55" src="https://github.com/user-attachments/assets/a1a5a402-75ee-46d5-9ac3-d513847372a5" />
+Página de inicio de Apache
+<img width="1366" height="768" alt="Captura desde 2025-11-05 16-20-55" src="https://github.com/user-attachments/assets/f4d269a9-0d57-45ae-828d-935962c05da3" />
+
+
+Escaneo con ZAP 
+<img width="1366" height="768" alt="Captura desde 2025-11-05 16-05-55" src="https://github.com/user-attachments/assets/a1a5a402-75ee-46d5-9ac3-d513847372a5" />
 
 
