@@ -47,7 +47,7 @@ sudo snap install zaproxy --classic
 
 En “Quick Start”, coloca la URL de tu Apache local:
 
-http://localhost
+http://localhost:6060
 
 Click en Attack
 
