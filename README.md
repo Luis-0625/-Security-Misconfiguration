@@ -1,4 +1,4 @@
-# -Security-Misconfiguration
+<img width="1366" height="768" alt="Captura desde 2025-08-20 17-43-28" src="https://github.com/user-attachments/assets/4e03c7b2-b0b4-42f0-8830-6a7d9abbabd4" /># -Security-Misconfiguration
 Mediante OWAS-ZAP se escanean errores en la configuración de un sistema, aplicación o red que crea una vulnerabilidad de seguridad, permitiendo el acceso no autorizado.
 # 🔒 Escaneo de seguridad con OWASP ZAP en un servidor Apache local
 
@@ -52,5 +52,8 @@ http://localhost:6060
 Click en Attack
 
 Observa el panel de alertas — verás vulnerabilidades clasificadas por nivel (High, Medium, Low, Informational).
+
+
+![Escaneo con ZAP]<img width="1366" height="768" alt="Captura desde 2025-11-05 16-05-55" src="https://github.com/user-attachments/assets/a1a5a402-75ee-46d5-9ac3-d513847372a5" />
 
 
